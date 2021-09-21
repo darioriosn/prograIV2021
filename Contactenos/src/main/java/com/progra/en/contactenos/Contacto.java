@@ -2,6 +2,7 @@ package com.progra.en.contactenos;
 
 import java.io.Serializable;
 
+/*Clase de contacto*/
 public class Contacto implements Serializable {
     private String nombre;
     private String correo;
